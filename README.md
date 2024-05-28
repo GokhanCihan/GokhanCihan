@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**GokhanCihan/GokhanCihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi there 👋</h2>
+ I am currently learning programming to switch my career from chemical engineering to software development. Software development has always been my passion. I recently decided to make it a real job so that I can both enjoy programming and earn my living.💸
 
-Here are some ideas to get you started:
+<h3 align="center">I am currently interested in:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="Javascript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+<h3 align="center">Contact me:</h3>
+
+
+<p align="center">
+<a href="mailto:cihangokhan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/gokhan-cihan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://discordapp.com/users/317307521226375168/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord"/></a>
+</p>
