@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
- I am currently learning programming to switch my career from chemical engineering to software development. Software development has always been my passion. I recently decided to make it a real job so that I can both enjoy programming and earn my living.💸
+  I am currently transitioning my career from chemical engineering to software development.
 </p>
 
 <h3 align="center">I am currently interested in:</h3>
